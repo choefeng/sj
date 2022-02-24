@@ -23,7 +23,7 @@
 			},
 			{
 				"child_name": "MIUI历史版本",
-				"img_src": "",
+				"img_src": "https://s4.ax1x.com/2022/02/24/bF49Mj.png",
 				"a_href": "https://miuiver.com/",
 				"child_desc": ""
 			},
@@ -31,13 +31,13 @@
 				"child_name": "XiaomiROM.com",
 				"img_src": "",
 				"a_href": "https://xiaomirom.com/",
-				"child_desc": ""
+				"child_desc": "由小米发布的任何固件，您可以轻松找到。"
 			},
 			{
 				"child_name": "Xiaomi Firmware Updater",
-				"img_src": "",
+				"img_src": "https://xiaomifirmwareupdater.com/images/xfu.png",
 				"a_href": "https://xiaomifirmwareupdater.com/",
-				"child_desc": ""
+				"child_desc": "为小米设备获取可闪存固件zip文件的最简单方法！"
 			}
 		]
 	},
