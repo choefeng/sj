@@ -5,13 +5,13 @@
 		"category_item": "officalMIUIItem",
 		"item_children": [{
 				"child_name": "开发版内测线刷包",
-				"img_src": "",
+				"img_src": "https://cnbj1.fds.api.xiaomi.com/planet/2c3bfc2c95d2cd6e8838d1045d12cba7-1627721824540_newLogo.png",
 				"a_href": "https://s.mi.cn/c/9fka_Sv0?channel=Share",
 				"child_desc": "小米社区官方认证。"
 			},
 			{
 				"child_name": "旧机型通用线刷包",
-				"img_src": "",
+				"img_src": "https://attach.bbs.miui.com/album/201802/22/150231zpandhsdt00janpf.png",
 				"a_href": "http://www.miui.com/shuaji-393.html",
 				"child_desc": "原MIUI论坛刷机页。"
 			},
