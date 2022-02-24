@@ -38,7 +38,7 @@ $(function() {
 
 	// ============================数据请求业务==============================
 	$.getJSON(
-		'./data/db.json',
+		'https://choefeng.gitee.io/maomi/res/database/mydb.json',
 		res => {
 			// 页面渲染
 			var categoryHTML = template('CategoryId', {
