@@ -48,9 +48,9 @@
 		"category_item": "apiDocItem",
 		"item_children": [{
 			"child_name": "K30Ultra·藏宝阁",
-			"img_src": "",
+			"img_src": "https://s4.ax1x.com/2022/02/24/bF5F6H.png",
 			"a_href": "https://cloud.ngunion.xyz/",
-			"child_desc": ""
+			"child_desc": "由The_panda搭建收录K30Ultra的周边资源。"
 		}]
 	},
 	{
@@ -60,21 +60,21 @@
 		"category_item": "portalsCommunityItem",
 		"item_children": [{
 				"child_name": "小米社区",
-				"img_src": "",
+				"img_src": "https://cnbj1.fds.api.xiaomi.com/planet/2c3bfc2c95d2cd6e8838d1045d12cba7-1627721824540_newLogo.png",
 				"a_href": "https://www.xiaomi.cn/",
 				"child_desc": "一个把MIUI论坛干掉的渣渣。"
 			},
 			{
 				"child_name": "米坛社区",
-				"img_src": "",
+				"img_src": "https://static.cloudflare.ltd/Bandbbs_CDN/PWA/pwa_icon_192.png",
 				"a_href": "https://www.bandbbs.cn/",
-				"child_desc": ""
+				"child_desc": "米坛社区是大型中文智能穿戴资源交流社区。"
 			},
 			{
 				"child_name": "柚坛社区",
-				"img_src": "",
+				"img_src": "https://uotan.cn/data/assets/logo/app.png",
 				"a_href": "https://uotan.cn/",
-				"child_desc": ""
+				"child_desc": "米粉第三方交流社区。"
 			},
 			{
 				"child_name": "MI8&2s玩机资源",
