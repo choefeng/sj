@@ -11,19 +11,19 @@
 			},
 			{
 				"child_name": "旧机型通用线刷包",
-				"img_src": "https://attach.bbs.miui.com/album/201802/22/150231zpandhsdt00janpf.png",
+				"img_src": "http://www.miui.com/favicon.ico",
 				"a_href": "http://www.miui.com/shuaji-393.html",
 				"child_desc": "原MIUI论坛刷机页。"
 			},
 			{
 				"child_name": "MIUI官方ROM仓库",
-				"img_src": "https://s4.ax1x.com/2022/02/24/bF6THS.png",
+				"img_src": "https://roms.miuier.com/favicon.ico",
 				"a_href": "https://roms.miuier.com/",
 				"child_desc": "海力力主导的第三方历史MIUI包站点。"
 			},
 			{
 				"child_name": "MIUI历史版本",
-				"img_src": "https://s4.ax1x.com/2022/02/24/bF49Mj.png",
+				"img_src": "https://miuiver.com/favicon.ico",
 				"a_href": "https://miuiver.com/",
 				"child_desc": ""
 			},
@@ -35,7 +35,7 @@
 			},
 			{
 				"child_name": "Xiaomi Firmware Updater",
-				"img_src": "https://xiaomifirmwareupdater.com/images/xfu.png",
+				"img_src": "https://xiaomifirmwareupdater.com/favicon.ico",
 				"a_href": "https://xiaomifirmwareupdater.com/",
 				"child_desc": "为小米设备获取可闪存固件zip文件的最简单方法！"
 			}
@@ -48,7 +48,7 @@
 		"category_item": "apiDocItem",
 		"item_children": [{
 			"child_name": "K30Ultra·藏宝阁",
-			"img_src": "https://s4.ax1x.com/2022/02/24/bF5F6H.png",
+			"img_src": "https://cloud.tencent.com/favicon.ico",
 			"a_href": "https://cloud.ngunion.xyz/",
 			"child_desc": "由The_panda搭建收录K30Ultra的周边资源。"
 		}]
@@ -72,13 +72,13 @@
 			},
 			{
 				"child_name": "柚坛社区",
-				"img_src": "https://uotan.cn/data/assets/logo/app.png",
+				"img_src": "https://s4.ax1x.com/2022/02/24/bFxnqf.png",
 				"a_href": "https://uotan.cn/",
 				"child_desc": "米粉第三方交流社区。"
 			},
 			{
 				"child_name": "MI8&2s玩机资源",
-				"img_src": "",
+				"img_src": "http://66886.ysepan.com/favicon.ico",
 				"a_href": "http://66886.ys168.com/",
 				"child_desc": ""
 			}
@@ -91,15 +91,15 @@
 		"category_item": "organizationItem",
 		"item_children": [{
 				"child_name": "Magisk官网",
-				"img_src": "",
+				"img_src": "https://img1.baidu.com/it/u=48982290,1902613851&fm=253&fmt=auto&app=138&f=PNG?w=300&h=300",
 				"a_href": "https://github.com/topjohnwu/Magisk",
-				"child_desc": ""
+				"child_desc": "安卓手机的一款ROOT软件。"
 			},
 			{
 				"child_name": "magisk仓库",
-				"img_src": "",
+				"img_src": "https://s4.ax1x.com/2022/02/24/bFxgL6.png",
 				"a_href": "http://www.magisk.cool/",
-				"child_desc": ""
+				"child_desc": "本站提供刷机教程Magisk自定义高速更新通道、提供字体模块、magisk模块和xposed框架程序高速下载。"
 			}
 		]
 	},
@@ -110,9 +110,9 @@
 		"category_item": "frameworkItem",
 		"item_children": [{
 			"child_name": "太极官网",
-			"img_src": "",
-			"a_href": "https://moonbegonia.github.io/TaiChi/",
-			"child_desc": ""
+			"img_src": "https://taichi.cool/logo.svg",
+			"a_href": "https://taichi.cool/zh/",
+			"child_desc": "一个可以免 Root 运行的类 Xposed 框架。"
 		}]
 	},
 	{
@@ -122,9 +122,9 @@
 		"category_item": "UIFrameItem",
 		"item_children": [{
 			"child_name": "EdXposed官网",
-			"img_src": "",
-			"a_href": "https://github.com/ElderDrivers/EdXposed",
-			"child_desc": ""
+			"img_src": "https://edxp.meowcat.org/images/favicon.ico",
+			"a_href": "https://edxp.meowcat.org/",
+			"child_desc": "EdXposed 是一个 Magisk 和 Riru 模块，它为运行高版本 Android ART 的设备上提供原生 Xposed 框架。"
 		}]
 	},
 	{
@@ -134,15 +134,15 @@
 		"category_item": "JavaScriptAboutItem",
 		"item_children": [{
 				"child_name": "hoshi的分享",
-				"img_src": "",
+				"img_src": "https://www.lanzoui.com/favicon.ico",
 				"a_href": "https://www.lanzoui.com/b0eej6xqd?w",
-				"child_desc": ""
+				"child_desc": "MIUI开发版提取.个人收到的更新提取。"
 			},
 			{
 				"child_name": "*，表酱紫的分享",
-				"img_src": "",
+				"img_src": "https://www.lanzoui.com/favicon.ico",
 				"a_href": "https://www.lanzoux.com/b00z6coeh",
-				"child_desc": ""
+				"child_desc": "旧版本多定期应用归类。"
 			}
 		]
 	},
@@ -165,9 +165,9 @@
 		"category_item": "codeSourceItem",
 		"item_children": [{
 			"child_name": "TeamWin - TWRP",
-			"img_src": "",
+			"img_src": "https://twrp.me/favicon.ico",
 			"a_href": "https://twrp.me/",
-			"child_desc": ""
+			"child_desc": "这是Team Win网站和TWRP官方主页!在这里，您将找到官方支持的设备列表，以及在这些设备上安装TWRP的说明。"
 		}]
 	},
 	{
@@ -280,9 +280,9 @@
 		"category_item": "visionItem",
 		"item_children": [{
 			"child_name": "移动叔叔",
-			"img_src": "",
+			"img_src": "http://www.ydss.cn/favicon.ico",
 			"a_href": "http://www.ydss.cn/",
-			"child_desc": ""
+			"child_desc": "高通骁龙880_联发科天玑1200_安卓手机ROM资讯网。"
 		}]
 	},
 	{
