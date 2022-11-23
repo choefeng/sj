@@ -286,6 +286,18 @@
 		}]
 	},
 	{
+		"Category_id": "otherContext",
+		"category_CN": "日常应用",
+		"category_icon": "icon-vuejs1",
+		"category_item": "vueEcologyItem",
+		"item_children": [{
+			"child_name": "菜鸟裹裹身份码",
+			"img_src": "https://img.alicdn.com/tfs/TB1CZ0ARpXXXXX7XXXXXXXXXXXX-32-32.png",
+			"a_href": "https://market.m.taobao.com/app/cn-yz/multi-activity/authCode.html?bizEntry=ALIPAY_GUOGUO",
+			"child_desc": "菜鸟裹裹的身份码，免下载APP"
+		}]
+	},
+	{
 		"Category_id": "environment",
 		"category_CN": "星空网络",
 		"category_icon": "icon-aixin",
